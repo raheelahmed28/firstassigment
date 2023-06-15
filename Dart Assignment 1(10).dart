@@ -1,6 +1,6 @@
 import 'dart:math';
 void main() {
- int num2=45;
+ int num2=450;
  int num3=45;
  int num4=5;
  int maxnum=num2;
